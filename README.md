@@ -1,2 +1,2 @@
-# PollumTrojan
-Pollum.exe- my another gdi trojan (do not download it on your real pc, im not responsible for any damages.)
+# Pollum
+C++ short skidded GDI trojan by Comium92
